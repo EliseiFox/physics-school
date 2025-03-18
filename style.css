@@ -1,0 +1,51 @@
+body{
+    background-image: url(img/background.webp);
+    background-color: rgb(255, 253, 225);
+
+}
+.header{
+    width: 98%;
+    background-color: rgb(80, 130, 159);
+    margin-top: 15px;
+    margin-bottom: 60px;
+    padding: 1%;
+    border-radius: 10px;
+    
+}
+#header-text{
+    width: 98%;
+    position: absolute;
+    top: 3px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font
+}
+#rad-icon{
+    width: 7%;
+
+}
+#rad-icon-2{
+    position: absolute;
+    top: 25px;
+    width: 7%;
+    right: 2%;
+}
+h2{
+    max-width: 30%;
+    text-align: center;
+    margin: 1% 8%;
+    margin-top: 60px;
+    padding: 8px;
+    border-radius: 6px;
+    font-size: 35px;
+    background-attachment: absolute;
+    background-color: antiquewhite;
+}
+img{
+    width: 80%;
+    margin: 1% 8%;
+    border: 4px solid green;
+    border-radius: 5px;
+    border-style:groove;
+}
